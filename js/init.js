@@ -8,5 +8,5 @@ firebase.initializeApp({
   storageBucket: "chat801fbm.appspot.com",
   messagingSenderId: "586314228506",
   appId: "1:586314228506:web:ad7a03d303c33f4d4402a3",
-  measurementId: "G-5PSY8DG9E6"
+  measurementId: "G-5PSY8DG9E6" 
     });
